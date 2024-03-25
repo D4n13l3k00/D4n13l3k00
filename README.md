@@ -1,5 +1,7 @@
 ## 👋 Welcome!
 
+[![wakatime](https://wakatime.com/badge/user/cab025e0-e622-439b-b360-b4c3d3c140d1.svg)](https://wakatime.com/@cab025e0-e622-439b-b360-b4c3d3c140d1)
+
 ```python
 class AboutMe(Life):
 
