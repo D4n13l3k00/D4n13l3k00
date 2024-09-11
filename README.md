@@ -27,7 +27,7 @@ class AboutMe(Life):
             linux = "Arch Linux"
             windows = "Windows 11"
         class NothingPhone1:
-            android = "NothingOS 2.5.3A | Android 13"
+            android = "NothingOS 2.5.3A | Android 14"
             root = "Magisk"
             xposed = "LSposed"
 
