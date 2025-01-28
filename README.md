@@ -6,7 +6,7 @@
 class AboutMe(Life):
 
     name = "Daniel"
-    age = 0x11
+    age = 0x12
     location = "Russia"
     education = "Student"
     meta = "@D4n13l3k00"
